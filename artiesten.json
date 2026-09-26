@@ -6,7 +6,7 @@
     "leeftijd": 50,
     "isActief": false,
     "geboortedatum": "1958-08-29",
-    "profielfotoUrl": "images/artiesten/michael-jackson.jpeg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/michael-jackson.jpeg",
     "hoofdGenre": "Pop",
     "instrumenten": ["Zang", "Percussie", "Piano"],
     "meestPopulaireLp": {
@@ -24,7 +24,7 @@
     "leeftijd": 20,
     "isActief": true,
     "geboortedatum": "2006-01-01",
-    "profielfotoUrl": "images/artiesten/ghost.jpeg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/ghost.jpeg",
     "hoofdGenre": "Rock",
     "instrumenten": ["Zang", "Gitaar", "Basgitaar", "Drum", "Keyboard"],
     "meestPopulaireLp": {
@@ -40,7 +40,7 @@
     "naam": "Taylor Swift",
     "biografie": "Amerikaanse zangeres en songwriter, bekend om haar verhalende songwriting en muziek die verschillende genres combineert, waaronder country, pop en indie.",
     "isActief": true,
-    "profielfotoUrl": "images/artiesten/taylor-swift.png",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/taylor-swift.png",
     "hoofdGenre": "Pop",
     "instrumenten": ["Zang", "Gitaar", "Piano", "Banjo"],
     "meestPopulaireLp": {
@@ -56,7 +56,7 @@
     "naam": "Sabaton",
     "biografie": "Zweedse heavy-metalband die bekendstaat om nummers over historische oorlogen, veldslagen en personen uit de militaire geschiedenis.",
     "isActief": true,
-    "profielfotoUrl": "images/artiesten/sabaton.jpeg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/sabaton.jpeg",
     "hoofdGenre": "Heavy Metal",
     "instrumenten": ["Zang", "Gitaar", "Basgitaar", "Drums", "Keyboard"],
     "meestPopulaireLp": {
@@ -74,7 +74,7 @@
     "leeftijd": 58,
     "isActief": true,
     "geboortedatum": "1967-11-07",
-    "profielfotoUrl": "images/artiesten/David-Guetta.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/David-Guetta.jpg",
     "hoofdGenre": "Elektronisch",
     "instrumenten": ["DJ-mixer", "Synthesizer", "Drumcomputer", "Sampler"],
     "meestPopulaireLp": {
@@ -92,7 +92,7 @@
     "leeftijd": 36,
     "isActief": true,
     "geboortedatum": "1990-02-16",
-    "profielfotoUrl": "images/artiesten/the-weeknd.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/the-weeknd.jpg",
     "hoofdGenre": "R&B",
     "instrumenten": ["Zang", "Synthesizer", "Piano", "Gitaar"],
     "meestPopulaireLp": {
@@ -108,7 +108,7 @@
     "naam": "Coldplay",
     "biografie": "Britse rockband, opgericht in Londen in 1997, bekend om een combinatie van alternatieve rock, poprock en elektronische invloeden.",
     "isActief": true,
-    "profielfotoUrl": "images/artiesten/coldplay.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/coldplay.jpg",
     "hoofdGenre": "Rock",
     "instrumenten": ["Zang", "Piano", "Gitaar", "Basgitaar", "Drums"],
     "meestPopulaireLp": {
@@ -126,7 +126,7 @@
     "leeftijd": 86,
     "isActief": true,
     "geboortedatum": "1940-04-12",
-    "profielfotoUrl": "images/artiesten/herbie-hancock.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/herbie-hancock.jpg",
     "hoofdGenre": "Jazz",
     "instrumenten": ["Piano", "Elektrische Piano", "Keyboard", "Synthesizer"],
     "meestPopulaireLp": {
@@ -144,7 +144,7 @@
     "leeftijd": 33,
     "isActief": true,
     "geboortedatum": "1993-06-26",
-    "profielfotoUrl": "images/artiesten/ariana-grande.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/ariana-grande.jpg",
     "hoofdGenre": "Pop",
     "instrumenten": ["Zang", "Piano"],
     "meestPopulaireLp": {
@@ -162,7 +162,7 @@
     "leeftijd": 25,
     "isActief": true,
     "geboortedatum": "2001-12-18",
-    "profielfotoUrl": "images/artiesten/billie-eilish.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/billie-eilish.jpg",
     "hoofdGenre": "Pop",
     "instrumenten": ["Zang", "Piano", "Keyboard", "Gitaar"],
     "meestPopulaireLp": {
