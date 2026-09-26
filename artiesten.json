@@ -1,0 +1,176 @@
+[
+  {
+    "id": "art-001",
+    "naam": "Michael Jackson",
+    "biografie": "Amerikaanse zanger, songwriter, danser en entertainer, wereldwijd bekend als een van de invloedrijkste popartiesten uit de muziekgeschiedenis.",
+    "leeftijd": 50,
+    "isActief": false,
+    "geboortedatum": "1958-08-29",
+    "profielfotoUrl": "images/artiesten/michael-jackson.jpeg",
+    "hoofdGenre": "Pop",
+    "instrumenten": ["Zang", "Percussie", "Piano"],
+    "meestPopulaireLp": {
+      "id": "lp-101",
+      "titel": "Off the Wall",
+      "aantalTracks": 10,
+      "isGoudOfPlatina": true,
+      "coverUrl": "images/lps/lp-101.jpg"
+    }
+  },
+  {
+    "id": "art-002",
+    "naam": "Ghost",
+    "biografie": "Zweedse rockband uit Linköping, bekend om hun theatrale optredens, anonieme Nameless Ghouls en een mix van hardrock, heavy metal en popinvloeden.",
+    "leeftijd": 20,
+    "isActief": true,
+    "geboortedatum": "2006-01-01",
+    "profielfotoUrl": "images/artiesten/ghost.jpeg",
+    "hoofdGenre": "Rock",
+    "instrumenten": ["Zang", "Gitaar", "Basgitaar", "Drum", "Keyboard"],
+    "meestPopulaireLp": {
+      "id": "lp-201",
+      "titel": "Skeletá",
+      "aantalTracks": 10,
+      "isGoudOfPlatina": false,
+      "coverUrl": "images/lps/lp2/lp-201.jpg"
+    }
+  },
+  {
+    "id": "art-003",
+    "naam": "Taylor Swift",
+    "biografie": "Amerikaanse zangeres en songwriter, bekend om haar verhalende songwriting en muziek die verschillende genres combineert, waaronder country, pop en indie.",
+    "isActief": true,
+    "profielfotoUrl": "images/artiesten/taylor-swift.png",
+    "hoofdGenre": "Pop",
+    "instrumenten": ["Zang", "Gitaar", "Piano", "Banjo"],
+    "meestPopulaireLp": {
+      "id": "lp-301",
+      "titel": "1989",
+      "aantalTracks": 13,
+      "isGoudOfPlatina": true,
+      "coverUrl": "images/lps/lp3/lp-301.png"
+    }
+  },
+  {
+    "id": "art-004",
+    "naam": "Sabaton",
+    "biografie": "Zweedse heavy-metalband die bekendstaat om nummers over historische oorlogen, veldslagen en personen uit de militaire geschiedenis.",
+    "isActief": true,
+    "profielfotoUrl": "images/artiesten/sabaton.jpeg",
+    "hoofdGenre": "Heavy Metal",
+    "instrumenten": ["Zang", "Gitaar", "Basgitaar", "Drums", "Keyboard"],
+    "meestPopulaireLp": {
+      "id": "lp-401",
+      "titel": "The War To End All Wars",
+      "aantalTracks": 11,
+      "isGoudOfPlatina": false,
+      "coverUrl": "images/lps/lp4/lp-401.jpg"
+    }
+  },
+  {
+    "id": "art-005",
+    "naam": "David Guetta",
+    "biografie": "Franse dj en muziekproducer, bekend om zijn elektronische dance-, house- en popproducties en samenwerkingen met verschillende internationale artiesten.",
+    "leeftijd": 58,
+    "isActief": true,
+    "geboortedatum": "1967-11-07",
+    "profielfotoUrl": "images/artiesten/David-Guetta.jpg",
+    "hoofdGenre": "Elektronisch",
+    "instrumenten": ["DJ-mixer", "Synthesizer", "Drumcomputer", "Sampler"],
+    "meestPopulaireLp": {
+      "id": "lp-501",
+      "titel": "Nothing but the Beat",
+      "aantalTracks": 12,
+      "isGoudOfPlatina": true,
+      "coverUrl": "images/lps/lp5/lp-501.jpeg"
+    }
+  },
+  {
+    "id": "art-006",
+    "naam": "The Weeknd",
+    "biografie": "Canadese zanger, songwriter en producer, bekend om zijn kenmerkende combinatie van R&B, pop en elektronische muziek.",
+    "leeftijd": 36,
+    "isActief": true,
+    "geboortedatum": "1990-02-16",
+    "profielfotoUrl": "images/artiesten/the-weeknd.jpg",
+    "hoofdGenre": "R&B",
+    "instrumenten": ["Zang", "Synthesizer", "Piano", "Gitaar"],
+    "meestPopulaireLp": {
+      "id": "lp-601",
+      "titel": "After Hours",
+      "aantalTracks": 14,
+      "isGoudOfPlatina": true,
+      "coverUrl": "images/lps/lp6/lp-601.jpg"
+    }
+  },
+  {
+    "id": "art-007",
+    "naam": "Coldplay",
+    "biografie": "Britse rockband, opgericht in Londen in 1997, bekend om een combinatie van alternatieve rock, poprock en elektronische invloeden.",
+    "isActief": true,
+    "profielfotoUrl": "images/artiesten/coldplay.jpg",
+    "hoofdGenre": "Rock",
+    "instrumenten": ["Zang", "Piano", "Gitaar", "Basgitaar", "Drums"],
+    "meestPopulaireLp": {
+      "id": "lp-701",
+      "titel": "A Rush of Blood to the Head",
+      "aantalTracks": 11,
+      "isGoudOfPlatina": true,
+      "coverUrl": "images/lps/lp7/lp-701.jpg"
+    }
+  },
+  {
+    "id": "art-008",
+    "naam": "Herbie Hancock",
+    "biografie": "Amerikaanse jazzpianist, componist en bandleider die bekendstaat om zijn invloedrijke werk binnen zowel akoestische als elektronische jazz en jazz-fusion.",
+    "leeftijd": 86,
+    "isActief": true,
+    "geboortedatum": "1940-04-12",
+    "profielfotoUrl": "images/artiesten/herbie-hancock.jpg",
+    "hoofdGenre": "Jazz",
+    "instrumenten": ["Piano", "Elektrische Piano", "Keyboard", "Synthesizer"],
+    "meestPopulaireLp": {
+      "id": "lp-801",
+      "titel": "Head Hunters",
+      "aantalTracks": 4,
+      "isGoudOfPlatina": true,
+      "coverUrl": "images/lps/lp8/lp-801.jpg"
+    }
+  },
+  {
+    "id": "art-009",
+    "naam": "Ariana Grande",
+    "biografie": "Amerikaanse zangeres en songwriter, bekend om haar pop- en R&B-muziek en haar krachtige zangstijl.",
+    "leeftijd": 33,
+    "isActief": true,
+    "geboortedatum": "1993-06-26",
+    "profielfotoUrl": "images/artiesten/ariana-grande.jpg",
+    "hoofdGenre": "Pop",
+    "instrumenten": ["Zang", "Piano"],
+    "meestPopulaireLp": {
+      "id": "lp-901",
+      "titel": "thank u, next",
+      "aantalTracks": 12,
+      "isGoudOfPlatina": true,
+      "coverUrl": "images/lps/lp9/lp-901.jpg"
+    }
+  },
+  {
+    "id": "art-010",
+    "naam": "Billie Eilish",
+    "biografie": "Amerikaanse zangeres en songwriter, bekend om haar donkere popsound, minimalistische producties en samenwerkingen met haar broer FINNEAS.",
+    "leeftijd": 25,
+    "isActief": true,
+    "geboortedatum": "2001-12-18",
+    "profielfotoUrl": "images/artiesten/billie-eilish.jpg",
+    "hoofdGenre": "Pop",
+    "instrumenten": ["Zang", "Piano", "Keyboard", "Gitaar"],
+    "meestPopulaireLp": {
+      "id": "lp-1001",
+      "titel": "HIT ME HARD AND SOFT",
+      "aantalTracks": 10,
+      "isGoudOfPlatina": true,
+      "coverUrl": "images/lps/lp10/lp-1001.jpg"
+    }
+  }
+]
