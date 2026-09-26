@@ -5,7 +5,7 @@
     "titel": "Off the Wall",
     "aantalTracks": 10,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-101.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-101.jpg"
   },
   {
     "id": "lp-102",
@@ -13,7 +13,7 @@
     "titel": "Thriller",
     "aantalTracks": 9,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-102.png"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-102.png"
   },
   {
     "id": "lp-103",
@@ -21,7 +21,7 @@
     "titel": "Bad",
     "aantalTracks": 11,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-103.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-103.jpeg"
   },
   {
     "id": "lp-104",
@@ -29,7 +29,7 @@
     "titel": "Dangerous",
     "aantalTracks": 14,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-104.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-104.jpg"
   },
   {
     "id": "lp-105",
@@ -37,7 +37,7 @@
     "titel": "HIStory: Past, Present and Future, Book I",
     "aantalTracks": 30,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-105.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-105.jpg"
   },
   {
     "id": "lp-106",
@@ -45,7 +45,7 @@
     "titel": "Blood on the Dance Floor: HIStory in the Mix",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-106.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-106.jpeg"
   },
   {
     "id": "lp-107",
@@ -53,7 +53,7 @@
     "titel": "Invincible",
     "aantalTracks": 16,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-107.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-107.jpg"
   },
   {
     "id": "lp-108",
@@ -61,7 +61,7 @@
     "titel": "Michael",
     "aantalTracks": 10,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-108.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-108.jpg"
   },
   {
     "id": "lp-109",
@@ -69,7 +69,7 @@
     "titel": "Xscape",
     "aantalTracks": 8,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-109.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-109.jpg"
   },
   {
     "id": "lp-110",
@@ -77,7 +77,7 @@
     "titel": "Number Ones",
     "aantalTracks": 18,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp1/lp-110.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-110.jpg"
   },
 
   {
@@ -86,7 +86,7 @@
     "titel": "Skeletá",
     "aantalTracks": 10,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-201.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-201.jpg"
   },
   {
     "id": "lp-202",
@@ -94,7 +94,7 @@
     "titel": "Impera",
     "aantalTracks": 12,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-202.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-202.jpg"
   },
   {
     "id": "lp-203",
@@ -102,7 +102,7 @@
     "titel": "Prequelle",
     "aantalTracks": 8,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-203.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-203.jpg"
   },
   {
     "id": "lp-204",
@@ -110,7 +110,7 @@
     "titel": "Meliora",
     "aantalTracks": 10,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-204.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-204.jpg"
   },
   {
     "id": "lp-205",
@@ -118,7 +118,7 @@
     "titel": "Infestissumam",
     "aantalTracks": 10,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-205.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-205.jpg"
   },
   {
     "id": "lp-206",
@@ -126,7 +126,7 @@
     "titel": "Opus Eponymous",
     "aantalTracks": 8,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-206.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-206.jpeg"
   },
   {
     "id": "lp-207",
@@ -134,7 +134,7 @@
     "titel": "Rite Here Rite Now",
     "aantalTracks": 18,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-207.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-207.jpg"
   },
   {
     "id": "lp-208",
@@ -142,7 +142,7 @@
     "titel": "Ceremony and Devotion",
     "aantalTracks": 14,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-208.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-208.jpg"
   },
   {
     "id": "lp-209",
@@ -150,7 +150,7 @@
     "titel": "13 Commandments",
     "aantalTracks": 13,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-209.png"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-209.png"
   },
   {
     "id": "lp-210",
@@ -158,7 +158,7 @@
     "titel": "Phantomime",
     "aantalTracks": 5,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp2/lp-210.png"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-210.png"
   },
 
   {
@@ -167,7 +167,7 @@
     "titel": "1989",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-301.png"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-301.png"
   },
   {
     "id": "lp-302",
@@ -175,7 +175,7 @@
     "titel": "Taylor Swift",
     "aantalTracks": 11,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-302.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-302.jpg"
   },
   {
     "id": "lp-303",
@@ -183,7 +183,7 @@
     "titel": "Fearless",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-303.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-303.jpeg"
   },
   {
     "id": "lp-304",
@@ -191,7 +191,7 @@
     "titel": "Speak Now",
     "aantalTracks": 14,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-304.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-304.jpg"
   },
   {
     "id": "lp-305",
@@ -199,7 +199,7 @@
     "titel": "Red",
     "aantalTracks": 16,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-305.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-305.jpg"
   },
   {
     "id": "lp-306",
@@ -207,7 +207,7 @@
     "titel": "reputation",
     "aantalTracks": 15,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-306.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-306.jpg"
   },
   {
     "id": "lp-307",
@@ -215,7 +215,7 @@
     "titel": "Lover",
     "aantalTracks": 18,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-307.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-307.jpg"
   },
   {
     "id": "lp-308",
@@ -223,7 +223,7 @@
     "titel": "folklore",
     "aantalTracks": 16,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-308.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-308.jpg"
   },
   {
     "id": "lp-309",
@@ -231,7 +231,7 @@
     "titel": "evermore",
     "aantalTracks": 15,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-309.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-309.jpg"
   },
   {
     "id": "lp-310",
@@ -239,7 +239,7 @@
     "titel": "Midnights",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp3/lp-310.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-310.jpg"
   },
 
   {
@@ -248,7 +248,7 @@
     "titel": "The War To End All Wars",
     "aantalTracks": 11,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-401.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-401.jpg"
   },
   {
     "id": "lp-402",
@@ -256,7 +256,7 @@
     "titel": "Attero Dominatus",
     "aantalTracks": 9,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-402.png"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-402.png"
   },
   {
     "id": "lp-403",
@@ -264,7 +264,7 @@
     "titel": "Metalizer",
     "aantalTracks": 13,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-403.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-403.jpeg"
   },
   {
     "id": "lp-404",
@@ -272,7 +272,7 @@
     "titel": "The Art Of War",
     "aantalTracks": 11,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-404.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-404.jpg"
   },
   {
     "id": "lp-405",
@@ -280,7 +280,7 @@
     "titel": "Coat Of Arms",
     "aantalTracks": 11,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-405.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-405.jpg"
   },
   {
     "id": "lp-406",
@@ -288,7 +288,7 @@
     "titel": "Carolus Rex",
     "aantalTracks": 12,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp4/lp-406.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-406.jpg"
   },
   {
     "id": "lp-407",
@@ -296,7 +296,7 @@
     "titel": "Heroes",
     "aantalTracks": 13,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-407.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-407.jpg"
   },
   {
     "id": "lp-408",
@@ -304,7 +304,7 @@
     "titel": "The Last Stand",
     "aantalTracks": 12,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-408.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-408.jpg"
   },
   {
     "id": "lp-409",
@@ -312,7 +312,7 @@
     "titel": "The Great War",
     "aantalTracks": 11,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-409.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-409.jpg"
   },
   {
     "id": "lp-410",
@@ -320,7 +320,7 @@
     "titel": "Primo Victoria",
     "aantalTracks": 10,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp4/lp-410.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-410.jpg"
   },
 
   {
@@ -329,7 +329,7 @@
     "titel": "Nothing but the Beat",
     "aantalTracks": 12,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp5/lp-501.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-501.jpeg"
   },
   {
     "id": "lp-502",
@@ -337,7 +337,7 @@
     "titel": "Guetta Blaster",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp5/lp-502.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-502.jpeg"
   },
   {
     "id": "lp-503",
@@ -345,7 +345,7 @@
     "titel": "Pop Life",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp5/lp-503.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-503.jpg"
   },
   {
     "id": "lp-504",
@@ -353,7 +353,7 @@
     "titel": "One Love",
     "aantalTracks": 15,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp5/lp-504.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-504.jpeg"
   },
   {
     "id": "lp-505",
@@ -361,7 +361,7 @@
     "titel": "Just a Little More Love",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp5/lp-505.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-505.jpg"
   },
   {
     "id": "lp-506",
@@ -369,7 +369,7 @@
     "titel": "Listen",
     "aantalTracks": 14,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp5/lp-506.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-506.jpg"
   },
   {
     "id": "lp-507",
@@ -377,7 +377,7 @@
     "titel": "7",
     "aantalTracks": 27,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp5/lp-507.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-507.jpg"
   },
   {
     "id": "lp-508",
@@ -385,7 +385,7 @@
     "titel": "The Best Of",
     "aantalTracks": 18,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp5/lp-508.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-508.jpeg"
   },
   {
     "id": "lp-509",
@@ -393,7 +393,7 @@
     "titel": "F*** Me I'm Famous! Ibiza Mix 2010",
     "aantalTracks": 12,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp5/lp-509.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-509.jpg"
   },
   {
     "id": "lp-510",
@@ -401,7 +401,7 @@
     "titel": "F*** Me I'm Famous! Ibiza Mix 2011",
     "aantalTracks": 14,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp5/lp-510.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-510.jpg"
   },
   {
     "id": "lp-601",
@@ -409,7 +409,7 @@
     "titel": "After Hours",
     "aantalTracks": 14,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-601.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-601.jpg"
   },
   {
     "id": "lp-602",
@@ -417,7 +417,7 @@
     "titel": "Kiss Land",
     "aantalTracks": 10,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-602.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-602.jpeg"
   },
   {
     "id": "lp-603",
@@ -425,7 +425,7 @@
     "titel": "Beauty Behind the Madness",
     "aantalTracks": 14,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-603.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-603.jpeg"
   },
   {
     "id": "lp-604",
@@ -433,7 +433,7 @@
     "titel": "Starboy",
     "aantalTracks": 18,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-604.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-604.jpeg"
   },
   {
     "id": "lp-605",
@@ -441,7 +441,7 @@
     "titel": "My Dear Melancholy,",
     "aantalTracks": 6,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-605.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-605.jpg"
   },
   {
     "id": "lp-606",
@@ -449,7 +449,7 @@
     "titel": "Trilogy",
     "aantalTracks": 30,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-606.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-606.jpg"
   },
   {
     "id": "lp-607",
@@ -457,7 +457,7 @@
     "titel": "Dawn FM",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-607.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-607.jpeg"
   },
   {
     "id": "lp-608",
@@ -465,7 +465,7 @@
     "titel": "Hurry Up Tomorrow",
     "aantalTracks": 11,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-608.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-608.jpg"
   },
   {
     "id": "lp-609",
@@ -473,7 +473,7 @@
     "titel": "The Highlights",
     "aantalTracks": 18,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp6/lp-609.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-609.jpeg"
   },
   {
     "id": "lp-610",
@@ -481,7 +481,7 @@
     "titel": "The Weeknd in Japan",
     "aantalTracks": 18,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp6/lp-610.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-610.jpg"
   },
 
   {
@@ -490,7 +490,7 @@
     "titel": "A Rush of Blood to the Head",
     "aantalTracks": 11,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-701.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-701.jpg"
   },
   {
     "id": "lp-702",
@@ -498,7 +498,7 @@
     "titel": "Parachutes",
     "aantalTracks": 10,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-702.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-702.jpg"
   },
   {
     "id": "lp-703",
@@ -506,7 +506,7 @@
     "titel": "X&Y",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-703.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-703.jpg"
   },
   {
     "id": "lp-704",
@@ -514,7 +514,7 @@
     "titel": "Viva La Vida or Death and All His Friends",
     "aantalTracks": 10,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-704.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-704.jpg"
   },
   {
     "id": "lp-705",
@@ -522,7 +522,7 @@
     "titel": "Mylo Xyloto",
     "aantalTracks": 14,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-705.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-705.jpg"
   },
   {
     "id": "lp-706",
@@ -530,7 +530,7 @@
     "titel": "Ghost Stories",
     "aantalTracks": 9,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-706.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-706.jpg"
   },
   {
     "id": "lp-707",
@@ -538,7 +538,7 @@
     "titel": "A Head Full of Dreams",
     "aantalTracks": 11,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-707.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-707.jpg"
   },
   {
     "id": "lp-708",
@@ -546,7 +546,7 @@
     "titel": "Everyday Life",
     "aantalTracks": 16,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-708.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-708.jpg"
   },
   {
     "id": "lp-709",
@@ -554,7 +554,7 @@
     "titel": "Music of the Spheres",
     "aantalTracks": 12,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-709.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-709.jpeg"
   },
   {
     "id": "lp-710",
@@ -562,7 +562,7 @@
     "titel": "Moon Music",
     "aantalTracks": 10,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp7/lp-710.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-710.jpg"
   },
 
   {
@@ -571,7 +571,7 @@
     "titel": "Head Hunters",
     "aantalTracks": 4,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp8/lp-801.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-801.jpg"
   },
   {
     "id": "lp-802",
@@ -579,7 +579,7 @@
     "titel": "My Point of View",
     "aantalTracks": 6,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp8/lp-802.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-802.jpg"
   },
   {
     "id": "lp-803",
@@ -587,7 +587,7 @@
     "titel": "Inventions & Dimensions",
     "aantalTracks": 5,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp8/lp-803.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-803.jpg"
   },
   {
     "id": "lp-804",
@@ -595,7 +595,7 @@
     "titel": "Empyrean Isles",
     "aantalTracks": 4,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp8/lp-804.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-804.jpg"
   },
   {
     "id": "lp-805",
@@ -603,7 +603,7 @@
     "titel": "Maiden Voyage",
     "aantalTracks": 5,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp8/lp-805.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-805.jpg"
   },
   {
     "id": "lp-806",
@@ -611,7 +611,7 @@
     "titel": "Speak Like a Child",
     "aantalTracks": 6,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp8/lp-806.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-806.jpg"
   },
   {
     "id": "lp-807",
@@ -619,7 +619,7 @@
     "titel": "Takin' Off",
     "aantalTracks": 6,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp8/lp-807.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-807.jpg"
   },
   {
     "id": "lp-808",
@@ -627,7 +627,7 @@
     "titel": "Future Shock",
     "aantalTracks": 7,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp8/lp-808.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-808.jpg"
   },
   {
     "id": "lp-809",
@@ -635,7 +635,7 @@
     "titel": "Sound-System",
     "aantalTracks": 7,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp8/lp-809.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-809.jpg"
   },
   {
     "id": "lp-810",
@@ -643,7 +643,7 @@
     "titel": "Future 2 Future",
     "aantalTracks": 12,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp8/lp-810.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-810.jpg"
   },
 
   {
@@ -652,7 +652,7 @@
     "titel": "thank u, next",
     "aantalTracks": 12,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp9/lp-901.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-901.jpg"
   },
   {
     "id": "lp-902",
@@ -660,7 +660,7 @@
     "titel": "My Everything",
     "aantalTracks": 12,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp9/lp-902.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-902.jpg"
   },
   {
     "id": "lp-903",
@@ -668,7 +668,7 @@
     "titel": "Dangerous Woman",
     "aantalTracks": 15,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp9/lp-903.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-903.jpg"
   },
   {
     "id": "lp-904",
@@ -676,7 +676,7 @@
     "titel": "Sweetener",
     "aantalTracks": 15,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp9/lp-904.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-904.jpg"
   },
   {
     "id": "lp-905",
@@ -684,7 +684,7 @@
     "titel": "Yours Truly",
     "aantalTracks": 12,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp9/lp-905.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-905.jpg"
   },
   {
     "id": "lp-906",
@@ -692,7 +692,7 @@
     "titel": "Positions",
     "aantalTracks": 14,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp9/lp-906.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-906.jpeg"
   },
   {
     "id": "lp-907",
@@ -700,7 +700,7 @@
     "titel": "eternal sunshine",
     "aantalTracks": 13,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp9/lp-907.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-907.jpg"
   },
   {
     "id": "lp-908",
@@ -708,7 +708,7 @@
     "titel": "Christmas & Chill",
     "aantalTracks": 6,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp9/lp-908.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-908.jpeg"
   },
   {
     "id": "lp-909",
@@ -716,7 +716,7 @@
     "titel": "Eternal Sunshine Deluxe: Brighter Days Ahead",
     "aantalTracks": 9,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp9/lp-909.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-909.jpg"
   },
   {
     "id": "lp-910",
@@ -724,7 +724,7 @@
     "titel": "petal",
     "aantalTracks": 13,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp9/lp-910.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-910.jpg"
   },
 
   {
@@ -733,7 +733,7 @@
     "titel": "HIT ME HARD AND SOFT",
     "aantalTracks": 10,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp10/lp-1001.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1001.jpg"
   },
   {
     "id": "lp-1002",
@@ -741,7 +741,7 @@
     "titel": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
     "aantalTracks": 14,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp10/lp-1002.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1002.jpg"
   },
   {
     "id": "lp-1003",
@@ -749,7 +749,7 @@
     "titel": "Happier Than Ever",
     "aantalTracks": 16,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp10/lp-1003.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1003.jpg"
   },
   {
     "id": "lp-1004",
@@ -757,7 +757,7 @@
     "titel": "dont smile at me",
     "aantalTracks": 8,
     "isGoudOfPlatina": true,
-    "coverUrl": "images/lps/lp10/lp-1004.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1004.jpg"
   },
   {
     "id": "lp-1005",
@@ -765,7 +765,7 @@
     "titel": "HIT ME HARD AND SOFT: THE TOUR (LIVE)",
     "aantalTracks": 10,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp10/lp-1005.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1005.jpg"
   },
   {
     "id": "lp-1006",
@@ -773,7 +773,7 @@
     "titel": "HIT ME HARD AND SOFT Isolated Vocals",
     "aantalTracks": 10,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp10/lp-1006.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1006.jpg"
   },
   {
     "id": "lp-1007",
@@ -781,7 +781,7 @@
     "titel": "HIT ME HARD AND SOFT Anniversary Edition",
     "aantalTracks": 10,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp10/lp-1007.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1007.jpg"
   },
   {
     "id": "lp-1008",
@@ -789,7 +789,7 @@
     "titel": "Happier Than Ever: The Complete Edition",
     "aantalTracks": 16,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp10/lp-1008.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1008.jpg"
   },
   {
     "id": "lp-1009",
@@ -797,7 +797,7 @@
     "titel": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? Orange Vinyl",
     "aantalTracks": 14,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp10/lp-1009.jpeg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1009.jpeg"
   },
   {
     "id": "lp-1010",
@@ -805,6 +805,6 @@
     "titel": "Happier Than Ever Tour Exclusive",
     "aantalTracks": 16,
     "isGoudOfPlatina": false,
-    "coverUrl": "images/lps/lp10/lp-1010.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1010.jpg"
   }
 ]
