@@ -14,7 +14,7 @@
       "titel": "Off the Wall",
       "aantalTracks": 10,
       "isGoudOfPlatina": true,
-      "coverUrl": "images/lps/lp-101.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp1/lp-101.jpg"
     }
   },
   {
@@ -32,7 +32,7 @@
       "titel": "Skeletá",
       "aantalTracks": 10,
       "isGoudOfPlatina": false,
-      "coverUrl": "images/lps/lp2/lp-201.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp2/lp-201.jpg"
     }
   },
   {
@@ -50,7 +50,7 @@
       "titel": "1989",
       "aantalTracks": 13,
       "isGoudOfPlatina": true,
-      "coverUrl": "images/lps/lp3/lp-301.png"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp3/lp-301.png"
     }
   },
   {
@@ -68,7 +68,7 @@
       "titel": "The War To End All Wars",
       "aantalTracks": 11,
       "isGoudOfPlatina": false,
-      "coverUrl": "images/lps/lp4/lp-401.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp4/lp-401.jpg"
     }
   },
   {
@@ -86,7 +86,7 @@
       "titel": "Nothing but the Beat",
       "aantalTracks": 12,
       "isGoudOfPlatina": true,
-      "coverUrl": "images/lps/lp5/lp-501.jpeg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp5/lp-501.jpeg"
     }
   },
   {
@@ -104,7 +104,7 @@
       "titel": "After Hours",
       "aantalTracks": 14,
       "isGoudOfPlatina": true,
-      "coverUrl": "images/lps/lp6/lp-601.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp6/lp-601.jpg"
     }
   },
   {
@@ -122,7 +122,7 @@
       "titel": "A Rush of Blood to the Head",
       "aantalTracks": 11,
       "isGoudOfPlatina": true,
-      "coverUrl": "images/lps/lp7/lp-701.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp7/lp-701.jpg"
     }
   },
   {
@@ -140,7 +140,7 @@
       "titel": "Head Hunters",
       "aantalTracks": 4,
       "isGoudOfPlatina": true,
-      "coverUrl": "images/lps/lp8/lp-801.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp8/lp-801.jpg"
     }
   },
   {
@@ -158,7 +158,7 @@
       "titel": "thank u, next",
       "aantalTracks": 12,
       "isGoudOfPlatina": true,
-      "coverUrl": "images/lps/lp9/lp-901.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp9/lp-901.jpg"
     }
   },
   {
@@ -176,7 +176,7 @@
       "titel": "HIT ME HARD AND SOFT",
       "aantalTracks": 10,
       "isGoudOfPlatina": true,
-      "coverUrl": "images/lps/lp10/lp-1001.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/lps/lp10/lp-1001.jpg"
     }
   }
 ]
