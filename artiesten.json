@@ -59,7 +59,7 @@
     "biografie": "Zweedse heavy-metalband die bekendstaat om nummers over historische oorlogen, veldslagen en personen uit de militaire geschiedenis.",
     "leeftijd": 27,
     "isActief": true,
-    "geboortedatum": 1999-01-01,
+    "geboortedatum": "1999-01-01",
     "profielfotoUrl": "https://raw.githubusercontent.com/cloudybunnybear/dataset-webontwikkeling-Suneha-Shankar/refs/heads/main/artiesten/sabaton.jpeg",
     "hoofdGenre": "Heavy Metal",
     "instrumenten": ["Zang", "Gitaar", "Basgitaar", "Drums", "Keyboard"],
